@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   hey
   <a href="https://open.spotify.com/user/t3nt?si=b6b62cc3c2c54a6b">
   <img align="left" alt="my Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
