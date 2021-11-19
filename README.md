@@ -1,10 +1,10 @@
 <h1 align="center">
-  hey
+  hey </br>
 <a href="https://open.spotify.com/user/t3nt?si=b6b62cc3c2c54a6b">
-  <img align="left" alt="my Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="center" alt="my Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href=https://discordapp.com/users/230301396816101376">
-  <img align="left" alt="my Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="my Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </h1>
 
