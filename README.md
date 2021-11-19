@@ -5,9 +5,7 @@
   <img align="center" alt="my Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<a href=https://discordapp.com/users/230301396816101376">
-  <img align="center" alt="my Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 </h1>
 
                                                                                                                                            
