@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  hey
 <a href="https://open.spotify.com/user/t3nt?si=b6b62cc3c2c54a6b">
   <img align="left" alt="my Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
