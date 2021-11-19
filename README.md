@@ -2,6 +2,6 @@
 
 # hey
 
-![rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrami&show_icons=true&theme=radical)
+![rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=subrami&show_icons=true&count_private=true&theme=radical)
 
 
