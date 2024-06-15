@@ -7,5 +7,5 @@
 
   <br>
 
-  <img align="center" src="https://i.ibb.co/Yj1c13s/Purple-and-Blue-Gradients-Aesthetic-Y2-K-Group-Project-Presentation.jpg"/>
+  ![Alistair Smith](https://github.com/alii/alii/blob/master/github.png)
 </a>
