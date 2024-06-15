@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>hey, &lt;i'm rami/&gt;
+  <b>hey, &lt;i solve complex systems/&gt;
     </br>
   
 
