@@ -7,5 +7,5 @@
 
   <br>
 
-  <img align="center" width="100" height="20" src="https://i.ibb.co/Yj1c13s/Purple-and-Blue-Gradients-Aesthetic-Y2-K-Group-Project-Presentation.jpg"/>
+  <img align="center" width="1920" height="1080" src="https://i.ibb.co/Yj1c13s/Purple-and-Blue-Gradients-Aesthetic-Y2-K-Group-Project-Presentation.jpg"/>
 </a>
