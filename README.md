@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>hey, i solve complex systems
+  <b>building complex systems
     </br>
   
 
